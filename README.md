@@ -1,10 +1,10 @@
 ## Sprint 3 andré– Integração de Energia Renovável e Automação
 
 ## Turma 1CCPO
-- Rafael Silva RM
-- Guilherme Califfoni RM 
-- Antonio Lucas RM
-- Rafael Passos RM
+- Rafael Silva RM 565415
+- Guilherme Califfoni RM 565157
+- Antonio Lucas RM 565516
+- Rafael Passos RM 563075
 
 ## Esquema de Integração
 Fluxo geral: Painel Solar → Inversor → Bateria → Arduino (sensores e automação) → Cargas + Dashboard + Comando por Voz(No caso utilizamos um botão no lugar do comando de voz).
